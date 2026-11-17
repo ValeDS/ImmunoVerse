@@ -1,0 +1,11 @@
+path,file
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_ADT_counts.tar.gz,GSE144744_ADT_counts.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_ADT_integrated.tar.gz,GSE144744_ADT_integrated.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_metadata_per_cell.csv.gz,GSE144744_metadata_per_cell.csv.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_metadata_per_sample.csv.gz,GSE144744_metadata_per_sample.csv.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_RNA_counts.tar.gz,GSE144744_RNA_counts.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_RNA_integrated.tar.gz,GSE144744_RNA_integrated.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_RNA_normalised.tar.gz,GSE144744_RNA_normalised.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_RNA_SCTnormalised.tar.gz,GSE144744_RNA_SCTnormalised.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_saverx_integrated.tar.gz,GSE144744_saverx_integrated.tar.gz
+/Users/valentinadisalvatore/Desktop/NewProjects/ImmunoVerse/ImmunoVerse_MS_PoC/data/raw/GSE144744/GSE144744_saverx.tar.gz,GSE144744_saverx.tar.gz

@@ -1,0 +1,12 @@
+"metric","value"
+"chunk_files",22
+"expected_V2_samples",22
+"predicted_cells",67584
+"expected_V2_cells",67584
+"unique_predicted_cells",67584
+"duplicated_cell_ids",0
+"missing_predictions",0
+"missing_scores",0
+"exact_cell_set_match",1
+"metadata_match",1
+"predicted_states",11

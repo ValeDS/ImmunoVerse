@@ -1,0 +1,12 @@
+"immune_state_id","major_state_family","n_cells"
+"IVS-01","CD4 T-cell states",17815
+"IVS-02","CD4 T-cell states",14890
+"IVS-03","CD4 T-cell states",14496
+"IVS-04","CD4 T-cell states",14025
+"IVS-05","Cytotoxic/effector CD8",11154
+"IVS-06","Naive/memory CD8",7467
+"IVS-07","Cytotoxic/effector CD8",6886
+"IVS-08","Innate-like cytotoxic T",4507
+"IVS-09","Regulatory T",3566
+"IVS-10","Innate-like cytotoxic T",2666
+"IVS-11","Interferon-responsive T",528

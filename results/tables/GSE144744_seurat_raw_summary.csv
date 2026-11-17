@@ -1,0 +1,2 @@
+n_cells,n_genes,assays,groups,cohorts,basictypes
+497705,15340,RNA,HI1;HI2;HI3;MS1;MS1_nat;MS2;PPMS,NAT_HI;PPMS_HI;RRMS_HI,b_cells;cdc;monocytes;nk_cells;pdc;plasma_cells;platelets;t_cells
