@@ -1,0 +1,13 @@
+"sample","donor","group","cohort","total_V3_cells","curated_reference_cells","transferred_cells","curation_excluded_cells","median_transfer_score","mean_transfer_score","pct_transfer_below_050","pct_transfer_below_075","pct_transfer_below_090","tie_repaired_cells"
+"HH-OX-16","HH-OX-16","HI2","RRMS_HI",1410,1376,0,34,NA,NA,NA,NA,NA,0
+"HH-OX-25A","HH-OX-25","MS1","NAT_HI",1768,1745,0,23,NA,NA,NA,NA,NA,0
+"HH-OX-25B","HH-OX-25","MS1_nat","NAT_HI",1233,1216,0,17,NA,NA,NA,NA,NA,0
+"HH-OX-26","HH-OX-26","HI1","NAT_HI",1989,1984,0,5,NA,NA,NA,NA,NA,1
+"HH-OX-27B","HH-OX-27","MS1_nat","NAT_HI",1899,1887,0,12,NA,NA,NA,NA,NA,0
+"HH-OX-28","HH-OX-28","HI1","NAT_HI",1944,1907,0,37,NA,NA,NA,NA,NA,0
+"HH-OX-29A","HH-OX-29","MS1","NAT_HI",925,898,0,27,NA,NA,NA,NA,NA,0
+"HH-OX-35B","HH-OX-35","MS1_nat","NAT_HI",1289,1282,0,7,NA,NA,NA,NA,NA,0
+"HH-OX-37A","HH-OX-37","MS1","NAT_HI",1491,1473,0,18,NA,NA,NA,NA,NA,0
+"HH-OX-38","HH-OX-38","HI1","NAT_HI",605,583,0,22,NA,NA,NA,NA,NA,0
+"HH-OX-41A","HH-OX-41","MS1","NAT_HI",1378,1366,0,12,NA,NA,NA,NA,NA,0
+"HH-OX-41B","HH-OX-41","MS1_nat","NAT_HI",2000,1950,0,50,NA,NA,NA,NA,NA,0

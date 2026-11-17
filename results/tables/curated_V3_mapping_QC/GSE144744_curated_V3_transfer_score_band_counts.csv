@@ -1,0 +1,7 @@
+"transfer_score_band","n_cells","percent_full_V3"
+"0.50 <= score < 0.75",35892,14.8711638139986
+"0.75 <= score < 0.90",29355,12.1626828752905
+"Not applicable: excluded",1931,0.800072922234238
+"Not applicable: reference",98000,40.6044258824212
+"Score < 0.50",6760,2.80087672413436
+"Score >= 0.90",69415,28.7607777819211

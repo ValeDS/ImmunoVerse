@@ -1,0 +1,9 @@
+"metric","value"
+"total_samples",53
+"eligible_samples",39
+"minimum_reference_cells",100
+"minimum_transferred_cells",100
+"median_sample_pearson",0.978430394446177
+"median_sample_spearman",0.954545454545455
+"median_sample_MAD_percentage_points",1.31444398317416
+"maximum_sample_MAD_percentage_points",2.69384843267619
