@@ -1,0 +1,4 @@
+"rule","definition"
+"Conventional T-cell inclusion","Broad clusters 0, 1, or 2 with expression of at least one of CD3D, CD3E, CD3G, or TRAC"
+"T/NK boundary inclusion","Broad cluster 4 with expression of at least two of CD3D, CD3E, CD3G, or TRAC"
+"Platelet-associated exclusion","Broad cluster 11 excluded because its leading markers include PF4, PPBP, GNG11, and SDPR"

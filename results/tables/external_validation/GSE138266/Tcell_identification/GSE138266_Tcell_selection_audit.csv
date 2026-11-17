@@ -1,0 +1,24 @@
+"external_leukocyte_cluster","Tcell_selection_class","primary_T_inclusion","n_cells","n_samples","n_donors","median_canonical_T_gene_count"
+"0","Included: conventional T-cell clusters",TRUE,18653,22,12,3
+"1","Included: conventional T-cell clusters",TRUE,17767,22,12,3
+"2","Included: conventional T-cell clusters",TRUE,14187,22,12,3
+"4","Included: CD3-supported T/NK cells",TRUE,534,21,12,2
+"0","Excluded: insufficient canonical T evidence",FALSE,241,21,12,0
+"1","Excluded: insufficient canonical T evidence",FALSE,99,18,12,0
+"2","Excluded: insufficient canonical T evidence",FALSE,160,22,12,0
+"3","Excluded: non-T lineage",FALSE,6727,22,12,0
+"4","Excluded: predominantly NK-like cells",FALSE,4285,22,12,0
+"5","Excluded: non-T lineage",FALSE,4442,21,12,0
+"6","Excluded: non-T lineage",FALSE,2116,22,12,0
+"7","Excluded: non-T lineage",FALSE,1842,18,12,0
+"8","Excluded: non-T lineage",FALSE,958,15,11,0
+"9","Excluded: non-T lineage",FALSE,953,17,11,3
+"10","Excluded: non-T lineage",FALSE,645,12,11,0
+"11","Excluded: platelet-associated T-cell cluster",FALSE,525,10,10,3
+"12","Excluded: non-T lineage",FALSE,500,22,12,0
+"13","Excluded: non-T lineage",FALSE,471,16,10,1
+"14","Excluded: non-T lineage",FALSE,423,15,12,0
+"15","Excluded: non-T lineage",FALSE,225,22,12,3
+"16","Excluded: non-T lineage",FALSE,149,21,12,0
+"17","Excluded: non-T lineage",FALSE,48,10,9,0
+"18","Excluded: non-T lineage",FALSE,29,2,2,4

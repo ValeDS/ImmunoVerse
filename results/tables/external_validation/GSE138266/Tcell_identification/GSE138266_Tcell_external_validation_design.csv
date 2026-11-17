@@ -1,0 +1,5 @@
+"compartment","group","n_T_cells","n_samples","n_donors"
+"CSF","Control",11955,6,6
+"CSF","MS",16022,6,6
+"PBMC","Control",9025,5,5
+"PBMC","MS",14139,5,5
