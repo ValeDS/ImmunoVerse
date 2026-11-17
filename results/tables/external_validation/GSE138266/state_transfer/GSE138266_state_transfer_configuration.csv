@@ -1,0 +1,2 @@
+"reference_dataset","query_dataset","reference_cells","query_cells","query_samples","query_donors","mapping_features","transfer_dimensions","reference_states","default_k_anchor","default_k_score","default_k_weight"
+"GSE144744","GSE138266",98000,51141,22,12,2877,30,11,5,30,50

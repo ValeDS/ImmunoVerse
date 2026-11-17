@@ -1,0 +1,12 @@
+"predicted_state_id","predicted_state_name","higher_order_family","n_cells","percent_all_T_cells","samples_with_cells","donors_with_cells","PBMC_samples_with_cells","CSF_samples_with_cells","median_score"
+"IVS-01","CCR7+ naive/central-memory CD4 state","CD4 T-cell states",13689,26.7671731096381,22,12,10,12,0.8883568105055
+"IVS-02","ANKRD55+ naive/central-memory CD4 state","CD4 T-cell states",0,0,0,0,0,0,NA
+"IVS-03","MAF+ LIMS1+ memory CD4 state","CD4 T-cell states",16249,31.7729414755284,22,12,10,12,0.626570894003521
+"IVS-04","Activated/migratory memory CD4 state","CD4 T-cell states",2019,3.94790872294245,22,12,10,12,0.530768203041948
+"IVS-05","CX3CR1+ cytotoxic effector CD8/TEMRA state","Cytotoxic/effector CD8",5185,10.1386363191959,22,12,10,12,0.83744126605171
+"IVS-06","Naive/central-memory CD8 state","Naive/memory CD8",454,0.887741733638372,7,7,7,0,0.569830651225865
+"IVS-07","GZMK+ effector-memory CD8 state","Cytotoxic/effector CD8",10687,20.8971275493244,22,12,10,12,0.697511431339987
+"IVS-08","KLRB1+ SLC4A10+ MAIT-like T state","Innate-like cytotoxic T",804,1.57212412741245,21,12,10,11,0.73783620028616
+"IVS-09","FOXP3+ regulatory T-cell state","Regulatory T",1483,2.89982597133415,22,12,10,12,0.837874352961902
+"IVS-10","KLRC1+ NK-like cytotoxic T-cell state","Innate-like cytotoxic T",506,0.989421403570521,19,12,9,10,0.786501168027282
+"IVS-11","Interferon-responsive T-cell state","Interferon-responsive T",65,0.127099587415185,14,9,6,8,0.530863921806929
