@@ -1,0 +1,13 @@
+"analysis_set","contrast","pearson_effect_correlation","spearman_effect_correlation","direction_agreement_percent"
+"confidence_050_logit","MS1_vs_HI1",0.99998652594705,0.964285714285714,100
+"confidence_050_logit","MS1nat_vs_MS1",0.99986123135145,1,100
+"confidence_050_logit","MS2_vs_HI2",0.9999679782823,1,100
+"confidence_050_logit","PPMS_vs_HI3",0.999604226579956,1,100
+"full_asin","MS1_vs_HI1",1,1,100
+"full_asin","MS1nat_vs_MS1",1,1,100
+"full_asin","MS2_vs_HI2",1,1,100
+"full_asin","PPMS_vs_HI3",1,1,100
+"reference_only_logit","MS1_vs_HI1",0.998978041284446,0.964285714285714,85.7142857142857
+"reference_only_logit","MS1nat_vs_MS1",0.998065550328796,0.964285714285714,100
+"reference_only_logit","MS2_vs_HI2",0.999355066756747,1,100
+"reference_only_logit","PPMS_vs_HI3",0.998261242370332,0.785714285714285,85.7142857142857

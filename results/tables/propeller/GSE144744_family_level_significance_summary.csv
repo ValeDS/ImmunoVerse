@@ -1,0 +1,17 @@
+"analysis_set","contrast","tested_families","nominal_p_below_005","FDR_below_005"
+"confidence_050_logit","MS1_vs_HI1",7,0,0
+"confidence_050_logit","MS1nat_vs_MS1",7,0,0
+"confidence_050_logit","MS2_vs_HI2",7,0,0
+"confidence_050_logit","PPMS_vs_HI3",7,0,0
+"full_asin","MS1_vs_HI1",7,0,0
+"full_asin","MS1nat_vs_MS1",7,0,0
+"full_asin","MS2_vs_HI2",7,0,0
+"full_asin","PPMS_vs_HI3",7,0,0
+"full_logit","MS1_vs_HI1",7,0,0
+"full_logit","MS1nat_vs_MS1",7,0,0
+"full_logit","MS2_vs_HI2",7,0,0
+"full_logit","PPMS_vs_HI3",7,0,0
+"reference_only_logit","MS1_vs_HI1",7,0,0
+"reference_only_logit","MS1nat_vs_MS1",7,0,0
+"reference_only_logit","MS2_vs_HI2",7,0,0
+"reference_only_logit","PPMS_vs_HI3",7,0,0
