@@ -1,0 +1,5 @@
+"resolution","sensitivity_label","tested_labels","effect_pearson","signed_evidence_spearman","direction_agreement_percent","nominal_agreement_percent","nominal_p_below_005","FDR_below_005"
+"family","Arcsin transformation",6,1,0.885714285714286,100,100,0,0
+"family","Prediction score >= 0.50",6,0.993315212645433,0.885714285714286,100,100,0,0
+"state","Arcsin transformation",11,1,0.872727272727273,100,100,0,0
+"state","Prediction score >= 0.50",11,0.995524881593185,0.954545454545455,100,100,0,0
