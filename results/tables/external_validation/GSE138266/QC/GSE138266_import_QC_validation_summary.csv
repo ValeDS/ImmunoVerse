@@ -1,0 +1,10 @@
+"metric","value"
+"input_samples",22
+"input_donors",12
+"raw_droplet_matrices",1
+"cell_called_barcodes",78173
+"post_QC_cells",75979
+"post_QC_PBMC_cells",41089
+"post_QC_CSF_cells",34890
+"genes",33694
+"RNA_layers",1
