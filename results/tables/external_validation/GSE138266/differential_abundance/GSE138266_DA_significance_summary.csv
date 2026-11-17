@@ -1,0 +1,7 @@
+"contrast","contrast_display","resolution","tested_labels","nominal_p_below_005","FDR_below_005"
+"CSF_MS_vs_control","CSF: MS vs IIH control","family",6,3,1
+"CSF_MS_vs_control","CSF: MS vs IIH control","state",10,2,1
+"CSF_vs_PBMC_paired","CSF vs paired PBMC","family",6,3,3
+"CSF_vs_PBMC_paired","CSF vs paired PBMC","state",10,7,7
+"PBMC_MS_vs_control","PBMC: MS vs IIH control","family",6,2,2
+"PBMC_MS_vs_control","PBMC: MS vs IIH control","state",10,3,2
