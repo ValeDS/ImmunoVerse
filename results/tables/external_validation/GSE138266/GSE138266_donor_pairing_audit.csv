@@ -1,0 +1,13 @@
+"donor","provisional_group","CSF","PBMC","has_paired_PBMC_CSF"
+"PST83775","Control",1,1,TRUE
+"PST95809","Control",1,1,TRUE
+"PTC32190","Control",1,1,TRUE
+"PTC41540","Control",1,1,TRUE
+"PTC45044","Control",1,0,FALSE
+"PTC85037","Control",1,1,TRUE
+"MS19270","MS",1,1,TRUE
+"MS49131","MS",1,1,TRUE
+"MS58637","MS",1,0,FALSE
+"MS60249","MS",1,1,TRUE
+"MS71658","MS",1,1,TRUE
+"MS74594","MS",1,1,TRUE

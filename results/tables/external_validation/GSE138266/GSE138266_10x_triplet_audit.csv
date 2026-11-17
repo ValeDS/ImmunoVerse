@@ -1,0 +1,23 @@
+"geo_accession","n_barcodes","n_features","n_matrix","sample","donor","compartment","provisional_group","characteristics","complete_10x_triplet"
+"GSM4104134",1,1,1,"MS19270_PBMC","MS19270","PBMC","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104122",1,1,1,"MS19270_CSF","MS19270","CSF","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104136",1,1,1,"MS49131_PBMC","MS49131","PBMC","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104125",1,1,1,"MS49131_CSF","MS49131","CSF","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104123",1,1,1,"MS58637_CSF","MS58637","CSF","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104137",1,1,1,"MS60249_PBMC","MS60249","PBMC","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104126",1,1,1,"MS60249_CSF","MS60249","CSF","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104135",1,1,1,"MS71658_PBMC","MS71658","PBMC","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104124",1,1,1,"MS71658_CSF","MS71658","CSF","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104138",1,1,1,"MS74594_PBMC","MS74594","PBMC","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104127",1,1,1,"MS74594_CSF","MS74594","CSF","MS","disease condition: Multiple Sclerosis",TRUE
+"GSM4104139",1,1,1,"PST83775_PBMC","PST83775","PBMC","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104128",1,1,1,"PST83775_CSF","PST83775","CSF","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104141",1,1,1,"PST95809_PBMC","PST95809","PBMC","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104130",1,1,1,"PST95809_CSF","PST95809","CSF","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104140",1,1,1,"PTC32190_PBMC","PTC32190","PBMC","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104129",1,1,1,"PTC32190_CSF","PTC32190","CSF","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104142",1,1,1,"PTC41540_PBMC","PTC41540","PBMC","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104131",1,1,1,"PTC41540_CSF","PTC41540","CSF","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104132",1,1,1,"PTC45044_CSF","PTC45044","CSF","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104143",1,1,1,"PTC85037_PBMC","PTC85037","PBMC","Control","disease condition: idiopathic intracranial hypertension",TRUE
+"GSM4104133",1,1,1,"PTC85037_CSF","PTC85037","CSF","Control","disease condition: idiopathic intracranial hypertension",TRUE
