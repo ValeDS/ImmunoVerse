@@ -1,0 +1,5 @@
+"contrast","cohort","reference_group","test_group","block_variable","n_pairs","tested_states","nominal_p_below_005","FDR_below_005"
+"MS1_vs_HI1","NAT_HI","HI1","MS1","batch_pair",9,11,0,0
+"MS1nat_vs_MS1","NAT_HI","MS1","MS1_nat","donor",9,11,0,0
+"MS2_vs_HI2","RRMS_HI","HI2","MS2","batch_pair",2,11,4,1
+"PPMS_vs_HI3","PPMS_HI","HI3","PPMS","batch_pair",10,11,2,0

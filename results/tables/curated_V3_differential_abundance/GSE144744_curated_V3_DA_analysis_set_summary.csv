@@ -1,0 +1,5 @@
+"analysis_set","n_cells","n_samples","n_donors","n_states"
+"full_logit",239422,53,44,11
+"full_asin",239422,53,44,11
+"confidence_050_logit",232662,53,44,11
+"reference_only_logit",98000,53,44,11
